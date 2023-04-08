@@ -1,5 +1,5 @@
 #Thanks for using my code!
-#If you receive an error regarding no moudle 'PIL' please install Pillow into your cmd or shell. 
+#If you receive an error regarding no module 'PIL' please install Pillow into your cmd or shell. 
 #pip install Pillow 
 
 
